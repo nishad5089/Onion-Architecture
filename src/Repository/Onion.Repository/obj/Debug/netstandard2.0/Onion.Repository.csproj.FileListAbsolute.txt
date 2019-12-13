@@ -1,0 +1,11 @@
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\bin\Debug\netstandard2.0\Onion.Repository.deps.json
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\bin\Debug\netstandard2.0\Onion.Repository.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\bin\Debug\netstandard2.0\Onion.Repository.pdb
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\bin\Debug\netstandard2.0\Onion.Domain.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\bin\Debug\netstandard2.0\Onion.Domain.pdb
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\obj\Debug\netstandard2.0\Onion.Repository.csprojAssemblyReference.cache
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\obj\Debug\netstandard2.0\Onion.Repository.AssemblyInfoInputs.cache
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\obj\Debug\netstandard2.0\Onion.Repository.AssemblyInfo.cs
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\obj\Debug\netstandard2.0\Onion.Repository.csproj.CopyComplete
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\obj\Debug\netstandard2.0\Onion.Repository.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Repository\Onion.Repository\obj\Debug\netstandard2.0\Onion.Repository.pdb

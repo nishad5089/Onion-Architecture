@@ -1,0 +1,17 @@
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Infrastructure.deps.json
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Infrastructure.runtimeconfig.json
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Infrastructure.runtimeconfig.dev.json
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Infrastructure.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Infrastructure.pdb
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Domain.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Repository.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Service.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Service.pdb
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Domain.pdb
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\bin\Debug\netcoreapp3.0\Onion.Repository.pdb
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\obj\Debug\netcoreapp3.0\Onion.Infrastructure.csprojAssemblyReference.cache
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\obj\Debug\netcoreapp3.0\Onion.Infrastructure.AssemblyInfoInputs.cache
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\obj\Debug\netcoreapp3.0\Onion.Infrastructure.AssemblyInfo.cs
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\obj\Debug\netcoreapp3.0\Onion.Infrastructure.csproj.CopyComplete
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\obj\Debug\netcoreapp3.0\Onion.Infrastructure.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Infrastructure\Onion.Infrastructure\obj\Debug\netcoreapp3.0\Onion.Infrastructure.pdb

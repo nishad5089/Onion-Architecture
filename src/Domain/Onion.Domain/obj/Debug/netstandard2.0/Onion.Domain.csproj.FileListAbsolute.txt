@@ -1,0 +1,8 @@
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Domain\Onion.Domain\bin\Debug\netstandard2.0\Onion.Domain.deps.json
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Domain\Onion.Domain\bin\Debug\netstandard2.0\Onion.Domain.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Domain\Onion.Domain\bin\Debug\netstandard2.0\Onion.Domain.pdb
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Domain\Onion.Domain\obj\Debug\netstandard2.0\Onion.Domain.csprojAssemblyReference.cache
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Domain\Onion.Domain\obj\Debug\netstandard2.0\Onion.Domain.AssemblyInfoInputs.cache
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Domain\Onion.Domain\obj\Debug\netstandard2.0\Onion.Domain.AssemblyInfo.cs
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Domain\Onion.Domain\obj\Debug\netstandard2.0\Onion.Domain.dll
+D:\Web Applications\Clean Architecture\OnionArchitecture\src\Domain\Onion.Domain\obj\Debug\netstandard2.0\Onion.Domain.pdb
